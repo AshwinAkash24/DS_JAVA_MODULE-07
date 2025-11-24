@@ -87,6 +87,7 @@ public class Solution {
 ```
 
 ## Output:
+<img width="1287" height="327" alt="image" src="https://github.com/user-attachments/assets/e960a66f-068c-4e71-a343-6a0b4d4c4447" />
 
 
 
