@@ -92,6 +92,7 @@ public class Main {
 ```
 
 ## Output:
+<img width="1289" height="325" alt="image" src="https://github.com/user-attachments/assets/e7ca45fc-030b-4b02-9aa5-dbb86752c107" />
 
 
 
