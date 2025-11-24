@@ -64,6 +64,7 @@ class Solution {
 ```
 
 ## Output:
+<img width="1285" height="257" alt="image" src="https://github.com/user-attachments/assets/14ac4dab-e072-41b4-8eff-44e94a120d1f" />
 
 
 
