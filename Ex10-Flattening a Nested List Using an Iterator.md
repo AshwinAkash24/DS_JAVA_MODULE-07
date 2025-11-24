@@ -137,6 +137,7 @@ class SimpleNestedInteger implements NestedInteger {
 
 ## Output:
 
+<img width="1289" height="239" alt="image" src="https://github.com/user-attachments/assets/67b20254-f308-44e4-b18d-5d00e18f3fc5" />
 
 
 ## Result:
