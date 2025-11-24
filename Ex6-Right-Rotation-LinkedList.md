@@ -83,6 +83,7 @@ class Node {
 ```
 
 ## Output:
+<img width="1294" height="291" alt="image" src="https://github.com/user-attachments/assets/218a1d1c-b7f2-45a9-b28f-a468ab4919f5" />
 
 
 
